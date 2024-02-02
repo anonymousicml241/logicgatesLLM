@@ -1,2 +1,1 @@
-# logicgatesLLM
-Logic Gate like evaluation framework 
+In progress
